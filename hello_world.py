@@ -1,1 +1,1 @@
-print( "piss off" )
+print( "Okey-dokey, lemon smokey" )
